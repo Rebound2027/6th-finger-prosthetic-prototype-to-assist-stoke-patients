@@ -1,4 +1,5 @@
-# Robotic-6th-finger
+# 6th-finger-prosthetic-prototype-to-assist-stoke-patients
+
 Robotic Sixth Finger
 
 A wearable robotic sixth finger designed to augment human hand capabilities. The system integrates sensors, signal processing, and control logic to assist users in grasping or manipulating objects with enhanced dexterity.
